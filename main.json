@@ -1,5 +1,5 @@
 {
-    "version": 1,
+    "version": 2,
     "allowedAppVersions": ["1.9.1"], 
     "downloadAndroidUrl": "",
     "downloadIosUrl": "https://fiszy.github.io/pd_ota_update/main.jsbundle.zip?alt=media"
