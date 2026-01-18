@@ -1,6 +1,6 @@
 {
-    "version": 26,
-    "allowedAppVersions": ["1.9.5"], 
+    "version": 27,
+    "allowedAppVersions": ["1.9.6", "1.9.7", "1.9.8"], 
     "downloadAndroidUrl": "",
     "downloadIosUrl": "https://fiszy.github.io/pd_ota_update/main.jsbundle.zip?alt=media"
   }
