@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "allowedAppVersions": ["1.5.8", "1.3.7"],
+  "downloadAndroidUrl": "https://fiszy.github.io/pd_ota_update/update.android.bundle.zip",
+  "downloadIosUrl": "https://fiszy.github.io/pd_ota_update/update.android.bundle.zip"
+}
